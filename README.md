@@ -88,12 +88,12 @@
 # 3.具体需求
 
 ## **3.1功能图**
-![dfsdf](https://github.com/chaigee/-/raw/master/1.jpg)
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/1.jpg)
 
 ## **3.2功能需求**
 
 **主页面：** 用户可在此页面跳转到其它功能页面或者退出。
-![dfsdf](https://github.com/chaigee/-/raw/master/2.png)
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/2.png)
 
 **便签页面：** 简单地备忘笔记，并记录当前时间。右下角的&quot;+&quot;功能可添加便签。
 

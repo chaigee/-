@@ -90,33 +90,42 @@
 ## **3.1功能图**
 
 ![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/1.jpg)
+
 ## **3.2功能需求**
 
 **主页面：** 用户可在此页面跳转到其它功能页面或者退出。
 
 ![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/2.png)
+
 **便签页面：** 简单地备忘笔记，并记录当前时间。右下角的&quot;+&quot;功能可添加便签。
 
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/3.png)
 
 **任务页面**
 
 - **今日：** 当前分配好且需要完成的任务页面。（临时任务除外）
 
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/4.png)
 
 - **结算与分享**
 
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/5.png)
 
 - **未来：** 进行分配任务的页面
 
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/6.png)
 
 - **历史记录**
 
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/7.png)
 
 - **设置页面**
 
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/8.png)
 
 - **总结页面**
 
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/9.png)
 
 ## **3.3外部接口需求**
 
@@ -182,6 +191,8 @@
 ## **4.4功能验收标准**
 
 需求四象限标准如图：
+
+![dfsdf](https://github.com/chaigee/xuqiu/blob/master/pic/10.png)
 
 # 工作分配
 
